@@ -10,3 +10,12 @@
       background-size: cover;
       opacity: 0.1;
 }
+
+.converter-icon{
+      width: 100px;
+}
+
+.form-control , .btn{
+      height: 60px;
+      font-size: x-large;
+}

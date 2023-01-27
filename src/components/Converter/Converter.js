@@ -29,11 +29,13 @@ const Converter = () => {
           <img
             src="https://img.icons8.com/external-others-justicon/48/000000/external-image-photography-others-justicon-2.png"
             alt="icon"
+            className="converter-icon"
           />{" "}
           Image to Pdf
           <img
             src="https://img.icons8.com/cute-clipart/50/000000/pdf.png"
             alt="icon"
+            className="converter-icon"
           />
         </h2>
       </div>
@@ -43,7 +45,7 @@ const Converter = () => {
           {photo && (
             <div>
               <img
-                alt="not fount"
+                alt="not found"
                 width="250"
                 height="250"
                 className="rounded-circle shadow image-fit"
