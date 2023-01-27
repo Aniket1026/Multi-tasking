@@ -1,0 +1,12 @@
+.converter{
+     height: 100%;
+      width: 80%;
+      position: absolute;
+      top: 0;
+      right: 150px;
+      left: 0;
+      z-index: -1;
+      background-repeat: no-repeat;
+      background-size: cover;
+      opacity: 0.1;
+}
